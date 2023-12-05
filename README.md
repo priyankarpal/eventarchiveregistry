@@ -14,3 +14,4 @@
 | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) | Racing Competition for ML enthusiasts |
 | [TechCrunch Disrupt Hackathon](https://techcrunch.com/events/disrupt-hackathon-2023/) | Hackathon |
 | [Code for Good by JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs/code-for-good) | Solve real-world problems for social good organizations |
+| [Github Campus Expert](https://education.github.com/experts) | Coding and leadership development |
